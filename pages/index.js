@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>     {/* Get title from layout component */}
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, my name is Ethan Pickett and I'm a Software Engineer. I am curently learing React.js and Next.js</p>
+        <p>Hello, my name is Ethan Pickett and I'm a Software Engineer. I am curently learing React.js and Next.js. I plan to also learn Three.js to build 3D websites</p>
       </section>
 
       
